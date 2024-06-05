@@ -43,7 +43,7 @@ I am currently learning new Spring modules.</h4>
   
   [1.6 Multithreading](https://github.com/Morsko11/MultiThreading/blob/master/src/main/java/org/example/Main.java)
 
-  
+  [1.7 Stream Api](https://github.com/Morsko11/Stream_Api/blob/master/src/main/java/org/example/Main.java)
   
   
   *2. SQL Database*
