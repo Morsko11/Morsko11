@@ -71,13 +71,7 @@ I am currently learning new Spring modules.</h4>
   
   *5. Hibernate ORM*
   
-  [5.1 Hibernate](https://github.com/taron1991/JDBC_Hibernate_Memory)
-  
-  [5.2 OneToOne Relationship](https://github.com/taron1991/OneToOne/tree/master/src/main/java/com/example/mockito/classTest)
-  
-  [5.3 OneToMany&ManyToOne Relationship](https://github.com/taron1991/OneToMany/tree/master/src/main/java/com/example/mockito/classTest)
-  
-  [5.4 ManyToMany Relationship](https://github.com/taron1991/ManyToMany/tree/master/src/main/java/com/example/mockito/classTest)
+  [5.1 Hibernate, OneToOne, ManyToMany, OneToMany](https://github.com/Morsko11/Hibernate_ORM/tree/master/src/main/java)
   
    
   *6. Testing & Mockito* 
