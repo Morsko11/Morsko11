@@ -39,7 +39,7 @@ I am currently learning new Spring modules.</h4>
   
   [1.4 Generics](https://github.com/Morsko11/Generics/tree/master/src/main/java/org/example)
   
-  [1.5 Collections](https://github.com/Morsko11/Collections)
+  [1.5 Collections](https://github.com/Morsko11/Collections/blob/master/src/main/java/org/example/Kartgame.java)
   
   [1.6 Multithreading](https://github.com/Morsko11/MultiThreading/blob/master/src/main/java/org/example/Main.java)
 
