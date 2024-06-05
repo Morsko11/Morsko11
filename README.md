@@ -1,4 +1,4 @@
-<p align="center"> <[https://www.nic.ru/help/upload/image/unnamed%20(8)(7).png /> </p>
+<p align="center"> <img height="200" width="750" src="[https://www.nic.ru/help/upload/image/unnamed%20(8)(7).png]" /> </p>
 
 <h1 align="center">Hi 👋, I'm Gleb Turov </h1>
 <h4 align="center">I am java (backend) developer,i like constant learning new frameworks,modules.
