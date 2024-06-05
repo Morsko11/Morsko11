@@ -110,7 +110,7 @@ I am currently learning new Spring modules.</h4>
   
   [8.5 SpringData](https://github.com/taron1991/SpringData/tree/master)
   
-  [8.6 SpringJdbc](https://github.com/taron1991/SpringData/tree/master)
+  [8.6 SpringJdbc](https://github.com/Morsko11/Spring_JDBC/tree/master/src/main/java/com/example/springjdbc)
   
   [8.7 SpringORM](https://github.com/taron1991/SpringData/tree/master)
   
