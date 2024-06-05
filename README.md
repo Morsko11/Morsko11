@@ -31,17 +31,17 @@ I am currently learning new Spring modules.</h4>
   *1. JavaCore*
 
 
-  [1.1 OOP(Incapsulation, Inheritance)](https://github.com/taron1991/JavaCore/tree/StreamAPI)
+  [1.1 OOP(Incapsulation, Inheritance)](https://github.com/Morsko11/Oop-Incapsulation-/tree/master/src/main/java)
   
-  [1.2 OOP(Abstraction,Polymorphism)](https://github.com/taron1991/JavaCore/tree/StreamAPI)
+  [1.2 OOP(Abstraction,Polymorphism)](https://github.com/Morsko11/OOP-Polymorpfism-/tree/master/src/main/java)
   
-  [1.3 Enums](https://github.com/taron1991/JavaCore/tree/StreamAPI)
+  [1.3 Enums](https://github.com/Morsko11/Enum/blob/master/src/main/java/org/example/EnumOd.java)
   
-  [1.4 Generics](https://github.com/taron1991/JavaCore/tree/StreamApiProject)
+  [1.4 Generics](https://github.com/Morsko11/Generics/tree/master/src/main/java/org/example)
   
-  [1.5 Collections](https://github.com/taron1991/JavaCore/tree/StreamApiProject)
+  [1.5 Collections](https://github.com/Morsko11/Collections)
   
-  [1.6 Multithreading](https://github.com/taron1991/JavaCore/tree/StreamApiProject)
+  [1.6 Multithreading](https://github.com/Morsko11/MultiThreading/blob/master/src/main/java/org/example/Main.java)
 
   
   
