@@ -12,8 +12,6 @@ I am currently learning new Spring modules.</h4>
 
 - 📫 How to reach me: *morsko11@mail.ru*
 
-- ⚡ Fun fact: *worcaholic*
-
 - 👨‍💻 All of my projects are available at: **[MyGithub](https://github.com/Morsko11)**
 
 - 📜 Certificates: **[Stepik],[GeekBrains]**
