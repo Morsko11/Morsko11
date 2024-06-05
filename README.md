@@ -38,141 +38,55 @@ I am currently learning new Spring modules.</h4>
   [1.7 Stream Api](https://github.com/Morsko11/Stream_Api/blob/master/src/main/java/org/example/Main.java)
   
   
-  *2. SQL Database*
+  *2. JDBC API*
   
-  [2.1 SQLJoins]
-  
-  
-  *3. Design Patterns*
-  
-  [3.1 Builder]
-  
-  [3.2 Decorator]
-  
-  [3.3 Facade]
-  
-  [3.4 Factory]
-  
-  [3.5 Proxy]
-  
-  [3.6 Singleton]
-  
-  [3.7 Strategy]
+  [2.1 Jdbc+Security](https://github.com/Morsko11/JDBC_Security/tree/master/src/main/java/com/example/jdbc_security_project)
   
   
-  *4. JDBC API*
+  *3. Hibernate ORM*
   
-  [4.1 Jdbc+Security](https://github.com/Morsko11/JDBC_Security/tree/master/src/main/java/com/example/jdbc_security_project)
-  
-  
-  *5. Hibernate ORM*
-  
-  [5.1 Hibernate, OneToOne, ManyToMany, OneToMany](https://github.com/Morsko11/Hibernate_ORM/tree/master/src/main/java)
+  [3.1 Hibernate, OneToOne, ManyToMany, OneToMany](https://github.com/Morsko11/Hibernate_ORM/tree/master/src/main/java)
   
    
-  *6. Testing & Mockito* 
+  *4. Testing & Mockito* 
   
-  [6.1 JUnit]
-
-  [6.2 JUnit5 Project]
+  [4.1 Mockito](https://github.com/Morsko11/Mockito_Test/blob/master/src/test/java/mockitoTest/MockitoTest.java)
+   
   
-  [6.3 Testing task+Spring]
+  *5. Spring framework*
   
-  [6.4 Mockito]
+  [5.1 SpringCore](https://github.com/Morsko11/Spring_Core/tree/master/src/main/java/org/example/Spring)
   
-  [6.5 Mockito+SpringBootTest]
+  [5.2 SpringMVC](https://github.com/Morsko11/Spring_MVC/tree/master/src/main/java/com/example/sprinwebmvctest)
   
-  [6.6 Spring+DataJpaTest+PostgreSQL(RealDB)]
-
-  [6.7 Spring+DataJpaTest+H2(FakeDB)]
+  [5.3 SpringData+JPA](https://github.com/Morsko11/Spring_Data_JPA/tree/master/src/main/java/com/example/datajpatest)
   
-  [6.8 Mockito+Spring+WebMvcTest]
+  [5.4 SpringJdbc](https://github.com/Morsko11/Spring_JDBC/tree/master/src/main/java/com/example/springjdbc)
   
+  [5.5 SpringRest](https://github.com/Morsko11/SpringREST/tree/master/src/main/java/com/restful/restproject)
   
-  *7. Logging*
+  [5.6 SpringBoot](https://github.com/Morsko11/Spring_Boot/tree/master/src/main/java/com/example/springboot_project)
   
-  [7.1 Log4J]
+  [5.7 Spring+Microservices](https://github.com/Morsko11/Spring_Microservice/tree/master/BackEndService/src/main/java/com/example/backendservice)
   
   
-  *8. Spring framework*
+  *6. Multithreading*
   
-  [8.1 SpringCore]
-  
-  [8.2 SpringCoreTask]
-  
-  [8.3 SpringMVC](https://github.com/Morsko11/Spring_MVC/tree/master/src/main/java/com/example/sprinwebmvctest)
-  
-  [8.4 SpringMVC+DB]
-  
-  [8.5 SpringData]
-  
-  [8.6 SpringJdbc](https://github.com/Morsko11/Spring_JDBC/tree/master/src/main/java/com/example/springjdbc)
-  
-  [8.7 SpringORM]
-  
-  [8.8 SpringRest](https://github.com/Morsko11/SpringREST/tree/master/src/main/java/com/restful/restproject)
-  
-  [8.9 SpringBoot]
-  
-  [8.9.1 SpringSecurity]
-  
-  [8.9.2 SpringSecurityToken]
-  
-  [8.9.3 SpringTest]
-  
-  [8.9.4 Spring+Microservices]
-  
-  [8.9.5 SpringCloud+EurekaClient]
-  
-  [8.9.6 SpringCloud+DiscoveryCLient+ReactiveWeb]
-  
-  
-  *9. Multithreading*
-  
-  [9.1 Threads,Volatile,Synchronized,wait(),notify()]
-  
-  [9.2 Semaphores]
-  
-  [9.3 Threadpool,Executors,Deadlock]
-  
-  
-  *10. SOLID Principles*
-  
- [10.1 Single-Responsibility Principle]
+  [6.1 Threads,Volatile,Synchronized,wait(),notify(),Semaphores,Threadpool,Executors,Deadlock](https://github.com/Morsko11/MultiThreading/blob/master/src/main/java/org/example/Main.java)
  
- [10.2 Open-Closed Principles]
- 
- [10.3 Liskov Substitution Principle]
- 
- [10.4 Interface Segregation Principle]
- 
- [10.5 Dependency Inversion Principle]
   
+  *7. Docker container*
   
-  *11. Docker container*
+  [7.1 Dockerfile](https://github.com/Morsko11/Docker/tree/master)
   
-  [11.1 Rest project + DB]
+  [7.2 Docker compose](https://github.com/Morsko11/Docker_Compose/tree/master)
   
-  [11.2 Dockerfile]
- 
-  [11.3 Docker compose (application container+db container)]
+  [7.3 Docker Spring](https://github.com/Morsko11/Docker_Spring/tree/master/src/main/java/com/example/dockerspring)
 
-  [11.4 Docker compose (application real+db container)]
   
-  [11.5 Dockerfile (application real+db container)]
-
-
-  *12. Kubernetes*
+  *8. Apache Kafka*
   
-  [12.1 MicroserviceProject(under development)]
-  
-  
-  *13. Apache Kafka*
-  
-  [13.1 Spring Boot+Kafka]
-  
-  [13.2 Spring Boot+Kafka+Docker]
-
+  [8.1 Spring Boot+Kafka](https://github.com/Morsko11/kafkaProject/tree/master/src/main/java/com/example/kafkaprojet2)
 
 
 
