@@ -44,24 +44,24 @@ I am currently learning new Spring modules.</h4>
   
   *2. SQL Database*
   
-  [2.1 SQLJoins](https://github.com/taron1991/SQL_Task_Joins)
+  [2.1 SQLJoins]
   
   
   *3. Design Patterns*
   
-  [3.1 Builder](https://github.com/taron1991/DesignPatterns/tree/master/src/main/java/builder)
+  [3.1 Builder]
   
-  [3.2 Decorator](https://github.com/taron1991/DesignPatterns/tree/master/src/main/java/decorator)
+  [3.2 Decorator]
   
-  [3.3 Facade](https://github.com/taron1991/DesignPatterns/tree/master/src/main/java/facade)
+  [3.3 Facade]
   
-  [3.4 Factory](https://github.com/taron1991/DesignPatterns/tree/master/src/main/java/factory)
+  [3.4 Factory]
   
-  [3.5 Proxy](https://github.com/taron1991/DesignPatterns/tree/master/src/main/java/proxy)
+  [3.5 Proxy]
   
-  [3.6 Singleton](https://github.com/taron1991/DesignPatterns/tree/master/src/main/java/singleton)
+  [3.6 Singleton]
   
-  [3.7 Strategy](https://github.com/taron1991/DesignPatterns/tree/master/src/main/java/strategy)
+  [3.7 Strategy]
   
   
   *4. JDBC API*
@@ -76,106 +76,106 @@ I am currently learning new Spring modules.</h4>
    
   *6. Testing & Mockito* 
   
-  [6.1 JUnit](https://github.com/taron1991/JUnitTest/tree/master)
+  [6.1 JUnit]
 
-  [6.2 JUnit5 Project](https://github.com/taron1991/Junit5/blob/master/src/test/java/junit/UserTest.java)
+  [6.2 JUnit5 Project]
   
-  [6.3 Testing task+Spring](https://github.com/taron1991/SpringCoreTask/commit/c12ef3fe74d6c23f1fc18ada6d7d9b5b04540d57)
+  [6.3 Testing task+Spring]
   
-  [6.4 Mockito](https://github.com/taron1991/Mockito/tree/master/src/test/java/com/example/mockito)
+  [6.4 Mockito]
   
-  [6.5 Mockito+SpringBootTest](https://github.com/taron1991/BootTest/blob/master/src/test/java/com/example/sprinwebmvctest/controler/IntegrationTest.java)
+  [6.5 Mockito+SpringBootTest]
   
-  [6.6 Spring+DataJpaTest+PostgreSQL(RealDB)](https://github.com/taron1991/JpaTest/blob/master/src/test/java/com/example/webmvctest/dataJpaTest/JpaBookRepRealDBTest.java)
+  [6.6 Spring+DataJpaTest+PostgreSQL(RealDB)]
 
-  [6.7 Spring+DataJpaTest+H2(FakeDB)](https://github.com/taron1991/JpaTest/blob/master/src/test/java/com/example/webmvctest/dataJpaTest/FakeDbTestJPA.java)
+  [6.7 Spring+DataJpaTest+H2(FakeDB)]
   
-  [6.8 Mockito+Spring+WebMvcTest](https://github.com/taron1991/BootTest/blob/master/src/test/java/com/example/sprinwebmvctest/controler/TaskControlerTest.java)
+  [6.8 Mockito+Spring+WebMvcTest]
   
   
   *7. Logging*
   
-  [7.1 Log4J](https://github.com/taron1991/LoggingLog4j/tree/master)
+  [7.1 Log4J]
   
   
   *8. Spring framework*
   
-  [8.1 SpringCore](https://github.com/taron1991/SpringIoC_DI/tree/master)
+  [8.1 SpringCore]
   
-  [8.2 SpringCoreTask](https://github.com/taron1991/SpringCoreTask/commit/c12ef3fe74d6c23f1fc18ada6d7d9b5b04540d57)
+  [8.2 SpringCoreTask]
   
-  [8.3 SpringMVC](https://github.com/taron1991/SpringMVC/tree/master)
+  [8.3 SpringMVC](https://github.com/Morsko11/Spring_MVC/tree/master/src/main/java/com/example/sprinwebmvctest)
   
-  [8.4 SpringMVC+DB](https://github.com/taron1991/SpringMVC_Database/tree/master)
+  [8.4 SpringMVC+DB]
   
-  [8.5 SpringData](https://github.com/taron1991/SpringData/tree/master)
+  [8.5 SpringData]
   
   [8.6 SpringJdbc](https://github.com/Morsko11/Spring_JDBC/tree/master/src/main/java/com/example/springjdbc)
   
-  [8.7 SpringORM](https://github.com/taron1991/SpringData/tree/master)
+  [8.7 SpringORM]
   
-  [8.8 SpringRest](https://github.com/taron1991/SpringREST/tree/master)
+  [8.8 SpringRest](https://github.com/Morsko11/SpringREST/tree/master/src/main/java/com/restful/restproject)
   
-  [8.9 SpringBoot](https://github.com/taron1991/SpringBoot/tree/master)
+  [8.9 SpringBoot]
   
-  [8.9.1 SpringSecurity](https://github.com/taron1991/SpringSecurity/tree/master)
+  [8.9.1 SpringSecurity]
   
-  [8.9.2 SpringSecurityToken](https://github.com/taron1991/SpringSecurityToken/tree/master)
+  [8.9.2 SpringSecurityToken]
   
-  [8.9.3 SpringTest](https://github.com/taron1991/MockitoSpring/blob/master/src/test/java/org/pro/mockito/pro/MainClassTest.java)
+  [8.9.3 SpringTest]
   
-  [8.9.4 Spring+Microservices](https://github.com/taron1991/Microservice/tree/master)
+  [8.9.4 Spring+Microservices]
   
-  [8.9.5 SpringCloud+EurekaClient](https://github.com/taron1991/SpringCloudEurika/tree/master)
+  [8.9.5 SpringCloud+EurekaClient]
   
-  [8.9.6 SpringCloud+DiscoveryCLient+ReactiveWeb](https://github.com/taron1991/Cloud/tree/master)
+  [8.9.6 SpringCloud+DiscoveryCLient+ReactiveWeb]
   
   
   *9. Multithreading*
   
-  [9.1 Threads,Volatile,Synchronized,wait(),notify()](https://github.com/taron1991/MultithreadingProject/tree/master)
+  [9.1 Threads,Volatile,Synchronized,wait(),notify()]
   
-  [9.2 Semaphores](https://github.com/taron1991/MultithreadingProject/tree/semaphore)
+  [9.2 Semaphores]
   
-  [9.3 Threadpool,Executors,Deadlock](https://github.com/taron1991/MultithreadingProject/tree/deadlockpool)
+  [9.3 Threadpool,Executors,Deadlock]
   
   
   *10. SOLID Principles*
   
- [10.1 Single-Responsibility Principle](https://github.com/taron1991/SOLID-Principles/tree/master/src/main/java/singleresponsibility)
+ [10.1 Single-Responsibility Principle]
  
- [10.2 Open-Closed Principles](https://github.com/taron1991/SOLID-Principles/tree/master/src/main/java/openclosed)
+ [10.2 Open-Closed Principles]
  
- [10.3 Liskov Substitution Principle](https://github.com/taron1991/SOLID-Principles/tree/master/src/main/java/liskovsubstitution)
+ [10.3 Liskov Substitution Principle]
  
- [10.4 Interface Segregation Principle](https://github.com/taron1991/SOLID-Principles/tree/master/src/main/java/interfacesegregation)
+ [10.4 Interface Segregation Principle]
  
- [10.5 Dependency Inversion Principle](https://github.com/taron1991/SOLID-Principles/tree/master/src/main/java/dependencyinversion)
+ [10.5 Dependency Inversion Principle]
   
   
   *11. Docker container*
   
-  [11.1 Rest project + DB](https://github.com/taron1991/dockerProject/blob/master/src/main/java/com/example/demo/controller/Rest.java)
+  [11.1 Rest project + DB]
   
-  [11.2 Dockerfile](https://github.com/taron1991/dockerProject/blob/master/Dockerfile)
+  [11.2 Dockerfile]
  
-  [11.3 Docker compose (application container+db container)](https://github.com/taron1991/dockerProject/blob/master/docker-compose.yml)
+  [11.3 Docker compose (application container+db container)]
 
-  [11.4 Docker compose (application real+db container)](https://github.com/taron1991/DockerFakedb/blob/master/compose.yaml)
+  [11.4 Docker compose (application real+db container)]
   
-  [11.5 Dockerfile (application real+db container)]( https://github.com/taron1991/DockerFakedb/blob/master/Dockerfile)
+  [11.5 Dockerfile (application real+db container)]
 
 
   *12. Kubernetes*
   
-  [12.1 MicroserviceProject(under development)]()
+  [12.1 MicroserviceProject(under development)]
   
   
   *13. Apache Kafka*
   
-  [13.1 Spring Boot+Kafka](https://github.com/taron1991/Kafka/tree/master/src/main)
+  [13.1 Spring Boot+Kafka]
   
-  [13.2 Spring Boot+Kafka+Docker](https://github.com/taron1991/Apache-Kafka/tree/master)
+  [13.2 Spring Boot+Kafka+Docker]
 
 
 
