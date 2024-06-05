@@ -32,10 +32,15 @@ I am currently learning new Spring modules.</h4>
 
 
   [1.1 OOP(Incapsulation, Inheritance)](https://github.com/taron1991/JavaCore/tree/StreamAPI)
+  
   [1.2 OOP(Abstraction,Polymorphism)](https://github.com/taron1991/JavaCore/tree/StreamAPI)
+  
   [1.3 Enums](https://github.com/taron1991/JavaCore/tree/StreamAPI)
+  
   [1.4 Generics](https://github.com/taron1991/JavaCore/tree/StreamApiProject)
+  
   [1.5 Collections](https://github.com/taron1991/JavaCore/tree/StreamApiProject)
+  
   [1.6 Multithreading](https://github.com/taron1991/JavaCore/tree/StreamApiProject)
 
   
