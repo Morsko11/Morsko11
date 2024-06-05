@@ -66,7 +66,7 @@ I am currently learning new Spring modules.</h4>
   
   *4. JDBC API*
   
-  [4.1 Jdbc+Hibernate+Memory](https://github.com/taron1991/JDBC_Hibernate_Memory)
+  [4.1 Jdbc+Security](https://github.com/Morsko11/JDBC_Security/tree/master/src/main/java/com/example/jdbc_security_project)
   
   
   *5. Hibernate ORM*
