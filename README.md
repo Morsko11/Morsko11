@@ -19,10 +19,6 @@ I am currently learning new Spring modules.</h4>
 - 📜 Certificates: **[Stepik](https://github.com/taron1991/taron1991/blob/main/b6c2a08c89d58cb78d901f0242185139813449de.pdf),[GeekBrains](https://github.com/taron1991/taron1991/blob/main/1935983.pdf)**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/taron west" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taron west" height="20" width="30" /></a>
-<a href="https://instagram.com/taron_gukasyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taron_gukasyan" height="20" width="30" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
