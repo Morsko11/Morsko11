@@ -1,6 +1,6 @@
 <p align="center"> <img height="200" width="750" src="https://www.windowschimp.com/wp-content/uploads/2019/07/dynamic-desktop-wallpapers-windows-10.jpg" /> </p>
 
-<h1 align="center">Hi 👋, I'm Taron Gukasyan</h1>
+<h1 align="center">Hi 👋, I'm Gleb Turov </h1>
 <h4 align="center">I am java (backend) developer,i like constant learning new frameworks,modules.
 Also I am passionate about making new technologies.Some stacks i enjoy working with include: 
 Spring framework,SQL database,Hibernate ORM.I am looking forward to working with new team and create new projects. 
@@ -10,11 +10,11 @@ I am currently learning new Spring modules.</h4>
 
 - 💬 Ask me about: *Java,SQL*
 
-- 📫 How to reach me: *funkadelica@mail.ru*
+- 📫 How to reach me: *morsko11@mail.ru*
 
 - ⚡ Fun fact: *worcaholic*
 
-- 👨‍💻 All of my projects are available at: **[MyGithub](https://github.com/taron1991)**
+- 👨‍💻 All of my projects are available at: **[MyGithub](https://github.com/Morsko11)**
 
 - 📜 Certificates: **[Stepik](https://github.com/taron1991/taron1991/blob/main/b6c2a08c89d58cb78d901f0242185139813449de.pdf),[GeekBrains](https://github.com/taron1991/taron1991/blob/main/1935983.pdf)**
 
@@ -30,9 +30,15 @@ I am currently learning new Spring modules.</h4>
 
   *1. JavaCore*
 
-  [1.1 StreamApiBase](https://github.com/taron1991/JavaCore/tree/StreamAPI)
+
+  [1.1 OOP(Incapsulation, Inheritance)](https://github.com/taron1991/JavaCore/tree/StreamAPI)
+  [1.2 OOP(Abstraction,Polymorphism)](https://github.com/taron1991/JavaCore/tree/StreamAPI)
+  [1.3 Enums](https://github.com/taron1991/JavaCore/tree/StreamAPI)
+  [1.4 Generics](https://github.com/taron1991/JavaCore/tree/StreamApiProject)
+  [1.5 Collections](https://github.com/taron1991/JavaCore/tree/StreamApiProject)
+  [1.6 Multithreading](https://github.com/taron1991/JavaCore/tree/StreamApiProject)
+
   
-  [1.2 StreamApi](https://github.com/taron1991/JavaCore/tree/StreamApiProject)
   
   
   *2. SQL Database*
